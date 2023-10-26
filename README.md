@@ -22,8 +22,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/SamyukthaSreenivasan/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119475703/8fdcebc9-8308-4956-b62f-9784655ece80)
+
+
+### Name: Samyuktha S
+### Register Number: 212222240089
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
